@@ -93,7 +93,7 @@ section {
   border-right: none;
   display: inline-flex;
   width: 100%;
-  height: 5rem;
+  height: 4rem;
   align-items: center;
   padding-inline-start: 30px;
 }
@@ -211,7 +211,7 @@ h2 {
   height: 2.5rem;
   text-align: center;
   border-radius: 4px;
-  margin: 30px 30px 10px 30px;
+  margin: 20px 30px 10px 30px;
   border: none;
 }
 .fig2 {
